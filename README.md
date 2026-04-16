@@ -1,9 +1,12 @@
-<img width="1280" height="960" alt="WhatsApp Image 2026-04-16 at 3 15 56 PM" src="https://github.com/user-attachments/assets/bbcb73ae-33ad-4821-9a5f-dca1b176903d" />⚡ **Smart Electromagnetic Charging Highway (Prototype)**
- Overview
+⚡ **Smart Electromagnetic Charging Highway (Prototype)**
+ **Overview**
 
 Project ini merupakan prototipe jalan raya pintar (smart highway) yang mampu melakukan pengisian daya kendaraan listrik secara nirkabel saat kendaraan bergerak. Sistem menggunakan konsep inductive charging berbasis elektromagnetik dengan kumparan (coil) yang ditanam di bawah permukaan jalan.
 
-Fokus utama dari project ini adalah:
+**Penghargaan**
+**Project ini berhasil memenagkan silver medal pada International Science Technology Engineering Competition (ISTEC) 2023**
+
+**Fokus utama dari project ini adalah:**
 
 **Hardware**: Prototipe jalan dengan coil elektromagnetik untuk transfer energi
 **Software (IoT)**: Monitoring kondisi baterai kendaraan secara real-time menggunakan Arduino IoT Cloud
@@ -55,4 +58,14 @@ Sensor membaca kondisi baterai
 Data dikirim ke cloud melalui ESP
 Data ditampilkan pada dashboard IoT secara real-time
 📷 Prototype Illustration
+
+<img width="1280" height="960" alt="WhatsApp Image 2026-04-16 at 3 15 56 PM" src="https://github.com/user-attachments/assets/bbcb73ae-33ad-4821-9a5f-dca1b176903d" />
+
+tampilan web monitoring
+<img width="1918" height="926" alt="image" src="https://github.com/user-attachments/assets/75ebca0b-3498-434c-8eed-c11fd3e64f5a" />
+
+<img width="1179" height="667" alt="WhatsApp Image 2026-04-16 at 3 19 36 PM" src="https://github.com/user-attachments/assets/8987a95d-a8ae-42d7-9809-466a31deaef6" />
+
+
+
 
